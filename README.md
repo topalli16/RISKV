@@ -1,2 +1,2 @@
 # RISC - V 
-Implementation of a RISKC - V processor
+Implementation of a RISC - V processor
